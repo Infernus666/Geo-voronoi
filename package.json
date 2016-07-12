@@ -1,13 +1,13 @@
 {
-  "name": "raycast",
-  "version": "1.0.7",
-  "description": "Raycast algorithm helps you determine if a point lies inside a polygon",
-  "main": "raycast.js",
+  "name": "geovoronoi",
+  "version": "1.0.0",
+  "description": "A wrapper of the concept of Voronoi optimized for geolocations.",
+  "main": "geovoronoi.js",
   "scripts": {
-    "start": "node raycast"
+    "start": "node geovoronoi"
   },
   "keywords": [
-    "Raycast"
+    "Geovoronoi voronoi"
   ],
   "author": {
     "name" : "Achin Kumar",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Infernus666/Raycast.git"
+    "url": "https://github.com/Infernus666/Geo-voronoi.git"
   },
   "license": "ISC"
 }
