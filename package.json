@@ -1,6 +1,6 @@
 {
   "name": "geovoronoi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper of the concept of Voronoi optimized for geolocations.",
   "main": "geovoronoi.js",
   "scripts": {
