@@ -26,7 +26,7 @@ History: See https://github.com/gorhill/Javascript-Voronoi/CHANGELOG.md
 module.exports = {
     getGeoVoronoiGraph: function (spots) {
         var geoVoronoi = new GeoVoronoi();
-        geoVoronoi.computeGeoVononoi(JSON.parse(spots));
+        geoVoronoi.computeGeoVononoi(spots);
         var geoVoronoiGraph = geoVoronoi.voronoiGraph;
         return geoVoronoiGraph;
     }
