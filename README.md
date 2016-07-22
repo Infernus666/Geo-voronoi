@@ -30,6 +30,6 @@ This Voronoi graph will contain following main components
 2. **edges:** This contains information about start and end points of all the edges in the resulting Voronoi diagram.
 3. **vertices:** This contains information about all the vertices in the resulting Voronoi diagram.
 
-See this blogpost for further explanation [GitHub]()
+See [this blogpost](http://vinsol.com/blog/2014/12/18/geo-voronoi-a-solution-to-proximity-based-problems/) for further explanation
 
 Also check out [Raycast](https://www.npmjs.com/package/raycast) as it goes very well with Voronoi.
